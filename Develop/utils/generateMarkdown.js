@@ -1,6 +1,6 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+//function renderLicenseBadge(license) {}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -13,7 +13,7 @@ function renderLicenseBadge(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `
-  # ${data.title}
+  # ${data.Title}
   https://github.com/${data.Username}/${data.Title}
   # Description: 
   ${data.Description}
@@ -29,10 +29,10 @@ function generateMarkdown(data) {
   # Usage
   In order to use this app, ${data.Usage}
   # License
-  This project is licensed under the ${data.license}
-  !{GitHub license} 
+  This project is licensed under the ${data.License}![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)
+   
   # Contributing
-  Contributors: ${data.contributing} 
+  Contributors: ${data.contribution} 
   # Test 
   The following is needed to run the test: ${data.Tests}
   # Questions 
