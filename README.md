@@ -15,8 +15,8 @@
   # Usage
   In order to use this app, In order to use this app, Run this app via gitbash/terminal.
   # License
-  This project is licensed under the MIT(https://img.shields.io/badge/License-MIT-yellow.svg)
-  ![GitHub license] 
+  This project is licensed under the MIT![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)
+ 
   # Contributing
   Contributors: N/A 
   # Test 
