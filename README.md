@@ -14,7 +14,7 @@
   # Usage
   In order to use this app, Run this app via gitbash/terminal.
   # License
-  This project is licensed under the undefined(https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  This project is licensed under the undefined(https://img.shields.io/badge/License-MIT-yellow.svg)
   !{GitHub license} 
   # Contributing
   Contributors: N/A 
